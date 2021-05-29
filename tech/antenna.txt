@@ -1,0 +1,11 @@
+In-game antennas distance
+
+Depending on the generation, the antenna distance usability, they can be (in good conditions), of:
+
+For 2G Antenna:
+
+For 3G Antenna:
+
+For 4G Antenna (say that we use 700Mhz bands, for the good coverage):
+
+For 5G Antenna (usualy for 3.5GHz bands):

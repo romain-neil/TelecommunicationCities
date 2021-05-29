@@ -1,5 +1,7 @@
 /!\ Developping is starting, if you known how to make antenna or telephonic center for this mod, let me know at the mail bellow.
 
+If you are pretty good at 3d modeling, you can see project for 3d models to see what to be done
+
 Apparently, the author abandoned the project. I invite you to email me at tutosfaciles48 [@] yahoo.com (remove maybe curly braces) so I added you developer.
 
 Pour la version française, regardez README_FR.md

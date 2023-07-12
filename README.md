@@ -2,7 +2,7 @@
 
 If you are pretty good at 3d modeling, you can see project for 3d models to see what to be done
 
-Apparently, the author abandoned the project. I invite you to email me at tutosfaciles48 [@] yahoo.com (remove maybe curly braces) so I added you developer.
+Apparently, the author abandoned the project.
 
 Pour la version française, regardez README_FR.md
 
